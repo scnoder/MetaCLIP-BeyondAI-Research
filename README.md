@@ -124,7 +124,7 @@ notebook_login()
 ### GPU Check
 ```python
 import torch
-print(torch.cuda.is_available())  # Should print True
+print(torch.cuda.is_available())  # Prints True if running on a GPU
 ```
 In Colab: **Runtime → Change runtime type → T4 GPU**
 
@@ -133,8 +133,8 @@ In Colab: **Runtime → Change runtime type → T4 GPU**
 ## Repository Structure
 
 ```
-├── MetaCLIP_ZeroShot.ipynb      # Zero-shot classification with MetaCLIP
-├── MetaCLIP_Finetuning.ipynb    # Fine-tuning MetaCLIP on EyePACS
+├── MetaCLIP_ZeroShot.ipynb
+├── MetaCLIP_Finetuning.ipynb
 └── README.md
 ```
 
