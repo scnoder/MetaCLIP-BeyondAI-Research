@@ -34,7 +34,7 @@ Available on HuggingFace: https://huggingface.co/datasets/bumbledeep/eyepacs
 - The dataset is heavily imbalanced — approximately 73.3% of images are Grade 0 (No DR)
 
 ### License
-MIT License — see dataset page for full terms.
+MIT License (see the dataset page for full terms)
 
 ---
 
