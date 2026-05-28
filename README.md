@@ -137,10 +137,12 @@ In Colab: **Runtime → Change runtime type → T4 GPU**
 ├── MetaCLIP_Finetuning.ipynb
 └── README.md
 ```
----
-### BeyondAI
 
-The entire research portfolio with my partner's research can be found here: [ThinkingBeyond/BeyondAI]([url](https://github.com/ThinkingBeyond/BeyondAI-2025/tree/main/Renesh%20Thaipulley%2C%20Arham%20Hussain%20Inamdar%20and%20Sahana%20Dillibabu))
+---
+
+## BeyondAI
+The entire research portfolio with my partner's research can be found here: [ThinkingBeyond/BeyondAI](https://github.com/ThinkingBeyond/BeyondAI-2025/tree/main/Renesh%20Thaipulley%2C%20Arham%20Hussain%20Inamdar%20and%20Sahana%20Dillibabu)
+
 ---
 
 ## Citation
